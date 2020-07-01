@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/refresh"
+        android:title="Refresh" />
+    <item
+        android:id="@+id/news_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/sport"
+        android:title="Sport" />
+    <item
+        android:id="@+id/entertainment"
+        android:title="Entertainment" />
+
+</menu>
